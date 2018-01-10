@@ -830,7 +830,7 @@ U 1 1 5A562CE0
 P 4850 6050
 F 0 "J4" H 4850 6450 50  0000 C CNN
 F 1 "Conn_01x07" H 4850 5650 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 4850 6050 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x07_P2.00mm_Vertical" H 4850 6050 50  0001 C CNN
 F 3 "" H 4850 6050 50  0001 C CNN
 	1    4850 6050
 	0    -1   1    0   
@@ -845,7 +845,7 @@ U 1 1 5A563769
 P 4300 6800
 F 0 "J3" H 4300 7200 50  0000 C CNN
 F 1 "Conn_01x07" H 4300 6400 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 4300 6800 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x07_P2.00mm_Vertical" H 4300 6800 50  0001 C CNN
 F 3 "" H 4300 6800 50  0001 C CNN
 	1    4300 6800
 	0    -1   1    0   
