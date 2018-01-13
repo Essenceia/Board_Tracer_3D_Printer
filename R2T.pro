@@ -1,4 +1,4 @@
-update=mar. 09 janv. 2018 19:09:46 CET
+update=ven. 12 janv. 2018 17:13:56 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=/home/pookie/Documents/Elec/Kicad_libs/kicad-library/library;/home/pookie/Documents/Elec/Kicad_libs/Arduino_Shield_Modules_for_KiCad_V3
@@ -66,3 +64,5 @@ LibName34=Connector
 LibName35=arduino_shieldsNCL
 LibName36=/home/pookie/Documents/Elec/Kicad_libs/teensy_library/teensy
 LibName37=/home/pookie/Documents/Elec/Kicad_libs/arduino-kicad-library/arduino
+[general]
+version=1
